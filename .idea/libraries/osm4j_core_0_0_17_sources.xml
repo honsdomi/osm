@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="osm4j-core-0.0.17-sources">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/osm4j-core-0.0.17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

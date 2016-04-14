@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="adt-geo-0.0.2-sources">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/adt-geo-0.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

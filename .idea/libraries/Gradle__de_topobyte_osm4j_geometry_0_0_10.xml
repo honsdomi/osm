@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: de.topobyte:osm4j-geometry:0.0.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.topobyte/osm4j-geometry/0.0.10/b71bd3327f599dc1202e9b66319e57c7a19a625c/osm4j-geometry-0.0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.topobyte/osm4j-geometry/0.0.10/302a001cf6a613f64ba5d97053ce94ec327db087/osm4j-geometry-0.0.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

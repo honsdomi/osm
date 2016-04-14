@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.wololo:jts2geojson:0.6.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wololo/jts2geojson/0.6.0/b8127133d0f858f383b756c7a956ac67edf6b8db/jts2geojson-0.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wololo/jts2geojson/0.6.0/e16ad38d0b35c7be70330f15ba1514471d8504e4/jts2geojson-0.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

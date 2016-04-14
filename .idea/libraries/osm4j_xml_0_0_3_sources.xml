@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="osm4j-xml-0.0.3-sources">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/osm4j-xml-0.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
